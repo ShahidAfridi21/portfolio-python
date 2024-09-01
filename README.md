@@ -17,7 +17,7 @@ This repository contains the code for my personal portfolio website built using 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/parth-kabra/parthkabra.git](https://github.com/ShahidAfridi21/portfolio-python)
+   git clone (https://github.com/ShahidAfridi21/portfolio-python)
    ```
 2. Navigate to the project directory:
    ```bash
